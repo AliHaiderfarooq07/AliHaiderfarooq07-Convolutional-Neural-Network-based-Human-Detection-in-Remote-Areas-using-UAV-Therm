@@ -1,1 +1,1 @@
-# AliHaiderfarooq07-Convolutional-Neural-Network-based-Human-Detection-in-Remote-Areas-using-UAV-Therm
+# Convolutional Neural Network based Human Detection in Remote Areas using UAV Thermal Imagery
